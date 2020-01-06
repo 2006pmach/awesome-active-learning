@@ -10,7 +10,7 @@ A list of active learning methods for deep learning, computer vision and beyond.
 | [Active Learning for Convolutional Neural Networks: A Core-Set Approach](https://openreview.net/pdf?id=H1aIuk-RW) | ICLR'18|
 | [The Power of Ensembles for Active Learning in Image Classification](http://openaccess.thecvf.com/content_cvpr_2018/papers/Beluch_The_Power_of_CVPR_2018_paper.pdf) | CVPR'18 |
 |[Adversarial Active Learning for Sequence Labeling and Generation](https://www.ijcai.org/proceedings/2018/0558.pdf) | IJCAI'18 |
-| [Adversarial Sampling for Active Learning](https://arxiv.org/abs/1808.06671) | arXiv'18 |
+| [Adversarial Sampling for Active Learning](https://arxiv.org/abs/1808.06671) | WACV'20 |
 | [Active Decision Boundary Annotation with Deep Generative Models](http://openaccess.thecvf.com/content_ICCV_2017/papers/Huijser_Active_Decision_Boundary_ICCV_2017_paper.pdf) | ICCV'17|
 | [Deep Bayesian Active Learning with Image Data](http://proceedings.mlr.press/v70/gal17a/gal17a.pdf) | ICML'17|
 | [Generative Adversarial Active Learning](https://arxiv.org/pdf/1702.07956.pdf) | arXiv'17 |
