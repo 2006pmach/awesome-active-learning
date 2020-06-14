@@ -4,6 +4,8 @@ A list of active learning methods for deep learning, computer vision and beyond.
 
 |  Title  | Venue |
 |:--------|:--------:|
+|[Deep Active Learning for Biased Datasets via Fisher Kernel Self-Supervision](http://openaccess.thecvf.com/content_CVPR_2020/papers/Gudovskiy_Deep_Active_Learning_for_Biased_Datasets_via_Fisher_Kernel_Self-Supervision_CVPR_2020_paper.pdf)|CVPR'20|
+|[State-Relabeling Adversarial Active Learning](http://openaccess.thecvf.com/content_CVPR_2020/papers/Zhang_State-Relabeling_Adversarial_Active_Learning_CVPR_2020_paper.pdf)|CVPR'20|
 |[Deep Batch Active Learning by Diverse, Uncertain Gradient Lower Bounds](https://openreview.net/pdf?id=ryghZJBKPS) | ICLR'20 |
 |[Adversarial Sampling for Active Learning](https://arxiv.org/abs/1808.06671) | WACV'20 |
 |[Discriminative Active Learning](https://arxiv.org/pdf/1907.06347.pdf)| arXiv'19 |
