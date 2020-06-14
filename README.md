@@ -4,8 +4,10 @@ A list of active learning methods for deep learning, computer vision and beyond.
 
 |  Title  | Venue |
 |:--------|:--------:|
-|[Deep Batch Active Learning by Diverse, Uncertain Gradient Lower Bounds](https://openreview.net/pdf?id=ryghZJBKPS)| ICLR'20 |
+|[Deep Batch Active Learning by Diverse, Uncertain Gradient Lower Bounds](https://openreview.net/pdf?id=ryghZJBKPS) | ICLR'20 |
 |[Adversarial Sampling for Active Learning](https://arxiv.org/abs/1808.06671) | WACV'20 |
+|[Discriminative Active Learning](https://arxiv.org/pdf/1907.06347.pdf)| arXiv'19 |
+|[Semantic Redundancies in Image-Classification Datasets: The 10% You Don’t Need](https://arxiv.org/pdf/1901.11409.pdf)| arXiv'19 |
 |[BatchBALD: Efficient and Diverse Batch Acquisition for Deep Bayesian Active Learning](http://papers.nips.cc/paper/8925-batchbald-efficient-and-diverse-batch-acquisition-for-deep-bayesian-active-learning.pdf) | NIPS'19|
 |[Bayesian Batch Active Learning as Sparse Subset Approximation](http://papers.nips.cc/paper/8865-bayesian-batch-active-learning-as-sparse-subset-approximation.pdf) | NIPS'19 |
 | [Learning Loss for Active Learning](http://openaccess.thecvf.com/content_CVPR_2019/papers/Yoo_Learning_Loss_for_Active_Learning_CVPR_2019_paper.pdf) | CVPR'19 |
