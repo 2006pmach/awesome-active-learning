@@ -4,6 +4,10 @@ A list of active learning methods for deep learning, computer vision and beyond.
 
 |  Title  | Venue |
 |:--------|:--------:|
+|[Task-Aware Variational Adversarial Active Learning](https://openaccess.thecvf.com/content/CVPR2021/papers/Kim_Task-Aware_Variational_Adversarial_Active_Learning_CVPR_2021_paper.pdf)|CVPR'21|
+|[Sequential Graph Convolutional Network for Active Learning](https://openaccess.thecvf.com/content/CVPR2021/papers/Caramalau_Sequential_Graph_Convolutional_Network_for_Active_Learning_CVPR_2021_paper.pdf)|CVPR'21|
+|[Multiple Instance Active Learning for Object Detection](https://openaccess.thecvf.com/content/CVPR2021/papers/Yuan_Multiple_Instance_Active_Learning_for_Object_Detection_CVPR_2021_paper.pdf)|CVPR'21|
+|[VaB-AL: Incorporating Class Imbalance and Difficulty with Variational Bayes for Active Learning](https://openaccess.thecvf.com/content/CVPR2021/papers/Choi_VaB-AL_Incorporating_Class_Imbalance_and_Difficulty_With_Variational_Bayes_for_CVPR_2021_paper.pdf)| CVPR'21|
 |[Deep Active Learning for Biased Datasets via Fisher Kernel Self-Supervision](http://openaccess.thecvf.com/content_CVPR_2020/papers/Gudovskiy_Deep_Active_Learning_for_Biased_Datasets_via_Fisher_Kernel_Self-Supervision_CVPR_2020_paper.pdf)|CVPR'20|
 |[State-Relabeling Adversarial Active Learning](http://openaccess.thecvf.com/content_CVPR_2020/papers/Zhang_State-Relabeling_Adversarial_Active_Learning_CVPR_2020_paper.pdf)|CVPR'20|
 |[Deep Batch Active Learning by Diverse, Uncertain Gradient Lower Bounds](https://openreview.net/pdf?id=ryghZJBKPS) | ICLR'20 |
