@@ -4,6 +4,7 @@ A list of active learning methods for deep learning, computer vision and beyond.
 
 |  Title  | Venue |
 |:--------|:--------:|
+|[Influence Selection for Active Learning](https://arxiv.org/pdf/2108.09331.pdf)|ICCV'21|
 |[Task-Aware Variational Adversarial Active Learning](https://openaccess.thecvf.com/content/CVPR2021/papers/Kim_Task-Aware_Variational_Adversarial_Active_Learning_CVPR_2021_paper.pdf)|CVPR'21|
 |[Sequential Graph Convolutional Network for Active Learning](https://openaccess.thecvf.com/content/CVPR2021/papers/Caramalau_Sequential_Graph_Convolutional_Network_for_Active_Learning_CVPR_2021_paper.pdf)|CVPR'21|
 |[Multiple Instance Active Learning for Object Detection](https://openaccess.thecvf.com/content/CVPR2021/papers/Yuan_Multiple_Instance_Active_Learning_for_Object_Detection_CVPR_2021_paper.pdf)|CVPR'21|
