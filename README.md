@@ -4,6 +4,9 @@ A list of active learning methods for deep learning, computer vision and beyond.
 
 |  Title  | Venue |
 |:--------|:--------:|
+|[Entropy-based Active Learning for Object Detection with Progressive Diversity Constraint](https://openaccess.thecvf.com/content/CVPR2022/papers/Wu_Entropy-Based_Active_Learning_for_Object_Detection_With_Progressive_Diversity_Constraint_CVPR_2022_paper.pdf)|CVPR'22|
+|[Meta Agent Teaming Active Learning for Pose Estimation](https://openaccess.thecvf.com/content/CVPR2022/papers/Gong_Meta_Agent_Teaming_Active_Learning_for_Pose_Estimation_CVPR_2022_paper.pdf)|CVPR'22|
+|[Towards Fewer Annotations: Active Learning via Region Impurity and Prediction Uncertainty for Domain Adaptive Semantic Segmentation](https://openaccess.thecvf.com/content/CVPR2022/papers/Xie_Towards_Fewer_Annotations_Active_Learning_via_Region_Impurity_and_Prediction_CVPR_2022_paper.pdf)|CVPR'22|
 |[Towards Robust and Reproducible Active Learning using Neural Networks](https://openaccess.thecvf.com/content/CVPR2022/papers/Munjal_Towards_Robust_and_Reproducible_Active_Learning_Using_Neural_Networks_CVPR_2022_paper.pdf)|CVPR'22|
 |[Active Learning by Feature Mixing](https://openaccess.thecvf.com/content/CVPR2022/papers/Parvaneh_Active_Learning_by_Feature_Mixing_CVPR_2022_paper.pdf)|CVPR'22|
 |[Active Learning for Open-set Annotation](https://openaccess.thecvf.com/content/CVPR2022/papers/Ning_Active_Learning_for_Open-Set_Annotation_CVPR_2022_paper.pdf)|CVPR'22|
