@@ -4,6 +4,9 @@ A list of active learning methods for deep learning, computer vision and beyond.
 
 |  Title  | Venue |
 |:--------|:--------:|
+|[Towards Robust and Reproducible Active Learning using Neural Networks](https://openaccess.thecvf.com/content/CVPR2022/papers/Munjal_Towards_Robust_and_Reproducible_Active_Learning_Using_Neural_Networks_CVPR_2022_paper.pdf)|CVPR'22|
+|[Active Learning by Feature Mixing](https://openaccess.thecvf.com/content/CVPR2022/papers/Parvaneh_Active_Learning_by_Feature_Mixing_CVPR_2022_paper.pdf)|CVPR'22|
+|[Active Learning for Open-set Annotation](https://openaccess.thecvf.com/content/CVPR2022/papers/Ning_Active_Learning_for_Open-Set_Annotation_CVPR_2022_paper.pdf)|CVPR'22|
 |[Influence Selection for Active Learning](https://arxiv.org/pdf/2108.09331.pdf)|ICCV'21|
 |[Task-Aware Variational Adversarial Active Learning](https://openaccess.thecvf.com/content/CVPR2021/papers/Kim_Task-Aware_Variational_Adversarial_Active_Learning_CVPR_2021_paper.pdf)|CVPR'21|
 |[Sequential Graph Convolutional Network for Active Learning](https://openaccess.thecvf.com/content/CVPR2021/papers/Caramalau_Sequential_Graph_Convolutional_Network_for_Active_Learning_CVPR_2021_paper.pdf)|CVPR'21|
